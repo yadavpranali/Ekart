@@ -1,0 +1,2 @@
+# Ekart
+Ecommarce static website
